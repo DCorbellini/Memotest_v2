@@ -15,5 +15,13 @@
     "cypress-run": "cypress run"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DCorbellini/Memotest_v2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DCorbellini/Memotest_v2/issues"
+  },
+  "homepage": "https://github.com/DCorbellini/Memotest_v2#readme"
 }
